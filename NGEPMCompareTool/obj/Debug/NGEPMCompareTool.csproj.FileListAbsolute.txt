@@ -1,0 +1,23 @@
+D:\Projects\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\bin\Debug\NGEPMCompareTool.exe.config
+D:\Projects\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\bin\Debug\NGEPMCompareTool.exe
+D:\Projects\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\bin\Debug\NGEPMCompareTool.pdb
+D:\Projects\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\obj\Debug\NGEPMCompareTool.frmCompare.resources
+D:\Projects\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\obj\Debug\NGEPMCompareTool.Properties.Resources.resources
+D:\Projects\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\obj\Debug\NGEPMCompareTool.csproj.GenerateResource.Cache
+D:\Projects\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\obj\Debug\NGEPMCompareTool.exe
+D:\Projects\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\obj\Debug\NGEPMCompareTool.pdb
+D:\Projects\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\obj\Debug\NGEPMCompareTool.FieldNames.resources
+D:\Projects\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\obj\Debug\NGEPMCompareTool.csprojResolveAssemblyReference.cache
+D:\Projects\Others\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\bin\Debug\NGEPMCompareTool.exe.config
+D:\Projects\Others\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\obj\Debug\NGEPMCompareTool.exe
+D:\Projects\Others\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\obj\Debug\NGEPMCompareTool.pdb
+D:\Projects\Others\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\bin\Debug\NGEPMCompareTool.exe
+D:\Projects\Others\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\bin\Debug\NGEPMCompareTool.pdb
+D:\Projects\Others\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\obj\Debug\NGEPMCompareTool.csprojResolveAssemblyReference.cache
+D:\Projects\Others\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\obj\Debug\NGEPMCompareTool.FieldNames.resources
+D:\Projects\Others\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\obj\Debug\NGEPMCompareTool.frmCompare.resources
+D:\Projects\Others\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\obj\Debug\NGEPMCompareTool.Properties.Resources.resources
+D:\Projects\Others\Tool\NGEPMPrefCompareTool\NGEPMCompareTool\NGEPMCompareTool\obj\Debug\NGEPMCompareTool.csproj.GenerateResource.Cache
+D:\Projects\Tools\Data Comparison\NGEPMCompareTool\bin\Debug\NGEPMCompareTool.exe.config
+D:\Projects\Tools\Data Comparison\NGEPMCompareTool\obj\Debug\NGEPMCompareTool.exe
+D:\Projects\Tools\Data Comparison\NGEPMCompareTool\obj\Debug\NGEPMCompareTool.pdb
